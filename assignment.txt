@@ -1,0 +1,11 @@
+#swapping of numbers
+a = 10
+b = 20
+
+# Swap
+a, b = b, a
+
+print("After swapping:")
+print("a =", a)
+print("b =", b)
+   
